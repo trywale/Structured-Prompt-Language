@@ -1,2 +1,2 @@
 # Structured-Prompt-Language
-The specs for Structured Prompt Language, a standardized way for Prompt Engineering
+The specs for Structured Prompt Language, a standardized method for Prompt Engineering
